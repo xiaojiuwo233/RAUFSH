@@ -1,2 +1,9 @@
-# Remove-android-unless-file-sh-
+# RemoveAndroidUnlessFile[sh]
 它可以批量删除一些没用的文件夹
+在运行之前请按照你的习惯编辑他
+推荐使用MT管理器运行它
+此脚本仅供参考学习作用
+-
+注意!!!
+它可能会删除您的下载内容
+请在运行前编辑它!
